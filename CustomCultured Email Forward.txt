@@ -1,0 +1,15 @@
+<title> Test </title>
+</head>
+<body>
+
+<div class="container mt-5">
+<h1>Contact Me </h1>
+<form class="row g-3" <form action="https://formsubmit.co/info@custom-cultured.com" method="POST">>
+<div class="col-md-6">
+<label for="firstName" class="form-label">First Name</label>
+<input type="text" class="form-control" id="firstName" required>
+</div>
+<div class="col-md-6">
+<label for="lastName" class="form-label">Last Name</label>
+<input type="text" class="form-control" id="lastName" required>
+</div>
